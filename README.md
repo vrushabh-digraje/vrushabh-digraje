@@ -113,19 +113,27 @@
 - User-friendly interface
 - Waste collection management
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrushabh-digraje&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vrushabh-digraje&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Vrushabh's GitHub Stats"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabh-digraje&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=vrushabh-digraje&theme=tokyonight&hide_border=true"
+    alt="Vrushabh's GitHub Streak"
+    height="170"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vrushabh-digraje&theme=tokyonight" alt="GitHub Streak" />
-</p>
+---
 
 ## 📫 Connect With Me
 
