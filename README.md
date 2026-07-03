@@ -113,28 +113,19 @@
 - User-friendly interface
 - Waste collection management
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vrushabh-digraje&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabh-digraje&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vrushabh-digraje&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vrushabh-digraje&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabh-digraje&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrushabh-digraje&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=vrushabh-digraje&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vrushabh-digraje&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
